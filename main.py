@@ -1,0 +1,1 @@
+print("Big Data projesi start aldi - Hannya")
